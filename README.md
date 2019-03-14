@@ -45,5 +45,3 @@ See the [`INSTALL`](https://bitbucket.org/gtborg/gtsam/src/develop/INSTALL) file
 GTSAM is open source under the BSD license, see the [`LICENSE`](https://bitbucket.org/gtborg/gtsam/src/develop/LICENSE) and [`LICENSE.BSD`](https://bitbucket.org/gtborg/gtsam/src/develop/LICENSE.BSD) files.
 
 Please see the [`examples/`](https://bitbucket.org/gtborg/gtsam/src/develop/examples) directory and the [`USAGE`](https://bitbucket.org/gtborg/gtsam/src/develop/USAGE) file for examples on how to use GTSAM.
-
-test push.
